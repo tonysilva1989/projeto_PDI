@@ -2,7 +2,7 @@ import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 
-#setando os valores iniciais
+
 pyr_scale = 0.5
 levels = 3
 winsize = 15
